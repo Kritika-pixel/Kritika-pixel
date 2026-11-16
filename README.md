@@ -69,3 +69,16 @@
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pixel" alt="kritika-pixel" />
 </p>
+<br>
+<h2 align="center">🐍 Watch My Contributions!</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Kritika-pixel/Kritika-pixel/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Kritika-pixel/Kritika-pixel/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Kritika-pixel/Kritika-pixel/output/github-snake.svg">
+  </picture>
+</p>
